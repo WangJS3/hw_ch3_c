@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="p12.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="p13.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="p15.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="p16.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="p18.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="p20.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="p21.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="p23.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="p27.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="5_28.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="5_29.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="5_34.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="5_35.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="5_36.c">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
