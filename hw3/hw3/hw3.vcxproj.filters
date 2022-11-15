@@ -14,43 +14,28 @@
     <ClCompile Include="p12.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="p13.c">
+    <ClCompile Include="..\..\source\p13.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="p15.c">
+    <ClCompile Include="..\..\source\p15.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="p16.c">
+    <ClCompile Include="..\..\source\p16.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="p18.c">
+    <ClCompile Include="..\..\source\p18.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="p20.c">
+    <ClCompile Include="..\..\source\p20.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="p21.c">
+    <ClCompile Include="..\..\source\p21.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="p23.c">
+    <ClCompile Include="..\..\source\p23.c">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="p27.c">
-      <Filter>source</Filter>
-    </ClCompile>
-    <ClCompile Include="5_28.c">
-      <Filter>source</Filter>
-    </ClCompile>
-    <ClCompile Include="5_29.c">
-      <Filter>source</Filter>
-    </ClCompile>
-    <ClCompile Include="5_34.c">
-      <Filter>source</Filter>
-    </ClCompile>
-    <ClCompile Include="5_35.c">
-      <Filter>source</Filter>
-    </ClCompile>
-    <ClCompile Include="5_36.c">
+    <ClCompile Include="..\..\source\p27.c">
       <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>
