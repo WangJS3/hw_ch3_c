@@ -38,5 +38,14 @@
     <ClCompile Include="..\..\source\p27.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\source\5_34.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\5_35.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\5_36.c">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

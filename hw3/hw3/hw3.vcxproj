@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\source\5_34.c" />
+    <ClCompile Include="..\..\source\5_35.c" />
+    <ClCompile Include="..\..\source\5_36.c" />
     <ClCompile Include="..\..\source\p13.c" />
     <ClCompile Include="..\..\source\p15.c" />
     <ClCompile Include="..\..\source\p16.c" />
